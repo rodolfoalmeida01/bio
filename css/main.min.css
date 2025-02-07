@@ -69,18 +69,17 @@ body {
   background-color:#ffffff;
 }
 #landing-page {
-  margin: 150px auto;
+  margin: 100px auto;
   max-width: 630px;
   width: 100%;
-  background-color:#ffffff;
 }
 #landing-page p {
   font-size: 1.9rem;
+  font-family: 'IBM Plex Sans', sans-serif;
 }
 #landing-page .disclaimer {
   font-size: 1.6rem;
-
-  font-family: 'Merriweather', serif;
+  font-family: 'IBM Plex Sans', sans-serif;
 }
 #landing-page a {
   color:#00f;
