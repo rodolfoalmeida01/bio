@@ -1,2 +1,1 @@
-# bio
-Landing page da minha vida digital
+Landing page pra reunir os links da minha vida digital
