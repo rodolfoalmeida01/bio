@@ -185,7 +185,7 @@ h2, h3, h4, h5, h6 {
 
 h1 {
   font-family: 'Junicode', serif;
-  font-size: 9.4rem;
+  font-size: 8.4rem;
   font-weight: 100;
   color:#00f;
   line-height: 1;
@@ -228,7 +228,7 @@ a p {
 
 @media (min-width: 600px) {
   h1 {
-    font-size: 9.4rem;
+    font-size: 8.4rem;
   }
 }
 
